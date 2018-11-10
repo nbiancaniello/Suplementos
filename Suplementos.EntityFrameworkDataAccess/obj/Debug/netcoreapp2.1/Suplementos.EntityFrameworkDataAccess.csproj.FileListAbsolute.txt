@@ -1,0 +1,11 @@
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\bin\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.dll
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\obj\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\obj\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\obj\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\bin\Debug\netcoreapp2.1\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\obj\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\bin\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.deps.json
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\bin\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.dll
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\bin\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.pdb
+C:\Users\Nico\source\repos\Suplementos\Suplementos.EntityFrameworkDataAccess\obj\Debug\netcoreapp2.1\Suplementos.EntityFrameworkDataAccess.csproj.CopyComplete

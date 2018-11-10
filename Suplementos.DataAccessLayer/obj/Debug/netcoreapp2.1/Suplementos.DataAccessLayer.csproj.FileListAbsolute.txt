@@ -1,0 +1,9 @@
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\bin\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.deps.json
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\bin\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.dll
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\bin\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.pdb
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\obj\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\obj\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\obj\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\obj\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\obj\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.dll
+C:\Users\Nico\source\repos\Suplementos\Suplementos.DataAccessLayer\obj\Debug\netcoreapp2.1\Suplementos.DataAccessLayer.pdb
